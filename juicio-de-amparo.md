@@ -1,6 +1,6 @@
-# Juicio de Amparo: Diagrama de Flujo
+# Proceso de Juicio de Amparo
 
-Este diagrama representa los pasos del proceso de un juicio de amparo en México, basado en el caso hipotético de una detención arbitraria.
+## Diagrama de Flujo
 
 ```mermaid
 graph TD
